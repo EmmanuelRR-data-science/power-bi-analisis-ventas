@@ -38,7 +38,7 @@ El objetivo es ofrecer una visión clara del rendimiento general, identificar lo
 ---
 
 ## 🖥️ Vista previa
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.jpg)
 
 ---
 
