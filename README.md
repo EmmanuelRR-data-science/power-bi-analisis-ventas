@@ -12,7 +12,6 @@ El objetivo es ofrecer una visión clara del rendimiento general, identificar lo
 ## 📂 Contenido del repositorio
 - `Dashboard_Ventas_2023.pbix` → archivo de Power BI.
 - `bd_ventas_ESP.xlsx` → base de datos utilizada.
-- `report/` → PDF exportado del dashboard.
 - Captura del dashboard (para vista previa sin abrir Power BI)
 
 ---
